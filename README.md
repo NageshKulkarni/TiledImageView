@@ -1,4 +1,4 @@
-# Decode large images in android using tiles
+## Decode large images in android using tiles
 
 ## Features
  * Load high resolution image in many tiles and optimize memory. It requires minimum API level 14.
