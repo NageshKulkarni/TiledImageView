@@ -1,7 +1,7 @@
 # Decode large images in android using tiles
 
 ## Features
- * df
+ * Load high resolution image in many tiles and optimize memory. It requires minimum API level 14.
 
 ## Usage
 
